@@ -12,7 +12,7 @@ public class DuplicateREmove_Array {
 	public static void main(String[] args) {
 		
 		
-		String[] arr = {"vijay","sai","uha","sai","anusha","vijay","uha","Akshara"};
+		String[] arr = {"vijay","sai","uha","sai","anusha","vijay","uha","akshara"};
 		
 		
 //	List<String> alist = 	Arrays.asList(arr);
